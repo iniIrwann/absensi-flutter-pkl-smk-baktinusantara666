@@ -1,6 +1,6 @@
 # Flutter Absensi PKL
 
-Aplikasi absensi menggunakan Flutter.
+Aplikasi absensi sederhana menggunakan Flutter.
 
 ## Screenshot
 
@@ -8,4 +8,4 @@ Aplikasi absensi menggunakan Flutter.
 ![Login](assets/images/halaman_login.jpg)
 
 ### Dashboard
-<img src="assets/images/halaman_utama.jpg">
+<img src="assets/images/halaman_utama.jpg" width="200">
